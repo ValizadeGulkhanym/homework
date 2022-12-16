@@ -11,7 +11,9 @@
 */
 
 function oppositeNum(num) {
-  return; //your code here
+  let massiv = [num];
+  let oppositeNum = [-num];
+  return oppositeNum; //your code here
 }
 
 module.exports = oppositeNum;

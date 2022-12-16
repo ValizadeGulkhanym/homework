@@ -11,7 +11,9 @@
 */
 
 function prevNum(num) {
-  return;
+  let value = num;
+  let prevNum = num--;
+  return prevNum;
 }
 
 module.exports = prevNum;

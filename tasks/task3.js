@@ -11,7 +11,8 @@
 */
 
 function shareApples(n, k) {
-  return; //your code here
+  let res = k / n;
+  return res; //your code here
 }
 
 module.exports = shareApples;

@@ -11,7 +11,13 @@
 */
 
 function removeMiddle(num) {
-  return; //your code here
+  let num1 = num / 100 ;
+ let num2 = parseInt(num1);
+  let num3 = num % 10;
+  res = num2 + "num3";
+  removeMiddle(num = 198)
+  
+  return res; //your code here
 }
 
 module.exports = removeMiddle;

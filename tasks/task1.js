@@ -11,8 +11,10 @@
 */
 
 function simpleTask(a) {
-   // return 2 cavab goture bilmez, ona gorede cavablari string seklinde birlesdirib qaytarin (ex: cavab + " " + cavab2)
-  return; //your code here
+  let a = num1 + "num2";
+  let res = num1 + " " + num2 ;
+  // return 2 cavab goture bilmez, ona gorede cavablari string seklinde birlesdirib qaytarin (ex: cavab + " " + cavab2)
+  return res; //your code here
 }
 
 module.exports = simpleTask;

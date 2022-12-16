@@ -11,7 +11,8 @@
 */
 
 function areaOfRectangle(a, b) {
-  return; //your code here
+  let v = a * b;
+  return v; //your code here
 }
 
 module.exports = areaOfRectangle;

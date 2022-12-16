@@ -11,7 +11,8 @@
 */
 
 function perimeterOfRectangle(a, b) {
-  return; //your code here
+  let perimeterOfRectangle = (a + b) * 2;
+  return perimeterOfRectangle; //your code here
 }
 
 module.exports = perimeterOfRectangle;

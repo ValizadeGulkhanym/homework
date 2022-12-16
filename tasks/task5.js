@@ -11,7 +11,8 @@
 */
 
 function FriendsOfStepa(a) {
-  return; //your code here
+  let a = n - 1;
+  return a; //your code here
 }
 
 module.exports = FriendsOfStepa;

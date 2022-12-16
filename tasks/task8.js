@@ -11,7 +11,9 @@
 */
 
 function nextNum(num) {
-  return; //your code here
+  let value = num;
+  let nextNum = num++;
+  return res; //your code here
 }
 
 module.exports = nextNum;
